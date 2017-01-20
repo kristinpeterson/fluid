@@ -1,0 +1,14 @@
+# OS Garbage #
+##############
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Drafts #
+##########
+Draft_of_*
+
+# Tiddlywiki #
+##############
+StoryList.tid
+fluid/output/*

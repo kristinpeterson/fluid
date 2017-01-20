@@ -1,0 +1,13 @@
+created: 20161230104810304
+modified: 20170106012922879
+tags: [[🜅 Droplets]]
+title: 🜄 Heritage
+type: text/vnd.tiddlywiki
+
+This stream defines the basic design of the system for building races, species and ancestry into the character creation process.
+
+A character's heritage consists of their species, lineage and any genetic peculiarities that they may posses. //Heritage// is fixed during character creation, obviously a typical character isn't going to change species mid-play. 
+
+A character's heritage is represented by a set of special talents called //Lineages// which are only available at character creation. All characters, regardless of heritage recieve, 5 of these talents, with the specific selection of talents available determined by the character's choice of //Ancestry//.
+
+{{||_sections}}

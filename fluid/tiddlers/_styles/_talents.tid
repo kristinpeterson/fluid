@@ -1,0 +1,27 @@
+created: 20161230100203946
+modified: 20161230101758573
+tags: $:/tags/ViewTemplate
+title: _talents
+type: text/vnd.tiddlywiki
+
+\define _view(label)
+<hr />
+<table>
+  <tr><th>Related Talents</th> <th>Requirements</th></tr>
+<$list filter="[tag[$label$]sort[reqs]]">
+  <tr><td><$link>{{!!title}}</$link></td><td>{{!!reqs}}</td></tr>
+</$list>
+</table>
+\end
+
+<$list filter="[is[current]tag[Skill]]">
+  <$macrocall $name="_view" label={{!!title}} />
+</$list>
+
+<$list filter="[is[current]tag[Aptitude]]">
+  <$macrocall $name="_view" label={{!!title}} />
+</$list>
+
+<$list filter="[is[current]tag[Esoteric Arts]]">
+  <$macrocall $name="_view" label={{!!title}} />
+</$list>

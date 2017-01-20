@@ -1,0 +1,25 @@
+created: 20170118074712795
+modified: 20170118081707528
+tags: [[🜅 Taxes]]
+title: 🜅 Taxing Facets
+type: text/vnd.tiddlywiki
+
+Facets can be taxed voluntarily --- as part of the activation cost of some talent --- or involuntarily --- as the result of a failed test or other negative effect. When applying taxes the following general rules apply:
+
+* Taxes //''never have side effects''// on other facets
+
+<<<
+Fin takes a 2 point tax to his //Vigor// to use one of his talents, lowering it from 3 to 1. His //Health// facet, which is the sum of his //Vigor//, //Agility// and //Perception// remains unaffected however.
+<<<
+
+* Taxes are //''paid immediately''// but //''applied at the end of the turn''//
+
+<<<
+Lukas uses his //Field Medic// talent to remove a serious double difficulty penalty when attempting to perform surgery in a dirty warehouse. //Field Medic// taxes his //Medicine// skill by one point, reducing it to a 4. The tax is paid immediately, so his //Medicine// will only be able to absorb 4 more points of tax. However, it is not applied until the end of the turn, so for the remainder of the turn he will still roll his full 5d //Medicine// skill.
+<<<
+
+* Applied taxes //''impact your dice pools''//
+
+<<<
+On the next turn Fin decides to to stay in the combat. Until he has time to recover, he determines his dice pool as if he only had a 1 in his //Vigor// aptitude.
+<<<

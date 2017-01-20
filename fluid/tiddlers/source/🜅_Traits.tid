@@ -1,0 +1,13 @@
+created: 20161228190500590
+modified: 20170118081940361
+tags: [[🜅 Primitives]]
+title: 🜅 Traits
+type: text/vnd.tiddlywiki
+
+''Traits'' provide a basic description of the essential characteristics of an [[entity|🜅 Entities]]. Traits are represented as a list of words or short phrases that define what an entity is, its properties, and/or why it behaves as it does. Traits are neither good nor bad, and can provide either [[advantage|🜅 Bonuses & Penalties]] or [[disadvantage|🜅 Bonuses & Penalties]] to the entity depending on the context.
+
+<<<
+Jonah is a veteran barbarian in search of his lost brother. He takes the traits ''Brave'' and ''Must find my brother''. On his quest for his lost sibling he encounters an ancient dragon and uses his ''Brave'' trait to give him //Advantage// when testing against the dragon’s fear, handily slaying the beast. In its remains he discovers both the location of its lair and a clue to the whereabouts of his lost brother. He decides to go for the treasure, and the GM imposes //Disadvantage// due to his guilt of ignoring the plight of his brother.
+<<<
+
+//Traits// are intentionally free-form and can be removed and added to an entity as their properties or goals change. The core aim is to describe how the entity behaves. Generally, between three and five traits is reasonable. More than that and it starts to become counter-productive.

@@ -1,0 +1,10 @@
+created: 20160203061112252
+creator: eschlon
+modified: 20170119091352415
+modifier: eschlon
+reqs: 1 Vigor, 1 Focus
+tags: Vigor Focus Talent
+title: ♣ Resistant
+type: text/vnd.tiddlywiki
+
+Whenever you take involuntary tax, either as a result of external damage or as a result of failing a test, if you can narrate how you are avoiding the tax  you may pay ''1x Resist'' to reduce that tax by an amount equal to your current //Resist//.

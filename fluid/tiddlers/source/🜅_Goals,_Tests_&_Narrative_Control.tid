@@ -1,0 +1,35 @@
+created: 20170118062131831
+modified: 20170118081808114
+tags: [[🜅 Tests]]
+title: 🜅 Goals, Tests & Narrative Control
+type: text/vnd.tiddlywiki
+
+Whenever you wish to do something important the first step is to declare what you’re trying to do and how you are going to try to accomplish it.
+
+<<<
+I'm going to wade into the goblins with my sword and try to draw them away from the King
+<<<
+
+In addition to being more narratively interesting than "//I attack a goblin//" it also provides a significant amount of detail that is necessary to determine how to roll an appropriate test. The next step is to decide if a test is necessary and the guiding principle is again the narrative:
+
+* If failure is //''possible''// and //''interesting''// make a test, otherwise don’t
+
+<<<
+Sitting in camp, Fin decides to pull out his lock picks and try to open the dusty old chest that he found in the dungeon. It's not a particularly difficult lock, and he has plenty of time to work, so there's no need to roll dice.
+<<<
+
+<<<
+Later that evening Fin finds himself in the Mayor's estate using the same picks to open a strongbox while a guard snores noisly a few feet away. The lock is still not particularly difficult, but failure might be pretty interesting. He rolls a test.
+<<<
+
+* Tests are made to determine //''Narrative Control''// not to determine //''results''//
+
+<<<
+Fin fails his goal to open the Mayor's strongbox quitely, and loses narrative control of his character. The GM now gets to narrate what happens. He decides that Fin did indeed manage to pick the lock; however, it clicks loudly and the nearby guard begins to stir.
+<<<
+
+* The result of a //Test// is a //''negotiation''//
+
+<<<
+Fin may not have narrative control, but he still has some tricks up his sleeve. He uses one of his //Crime// talents which allows him to avoid detection from cursory inspection and narrates how he quickly grabs his tools and holds his breath under the table. The Guard looks around suspicously and then goes back to sleep.
+<<<

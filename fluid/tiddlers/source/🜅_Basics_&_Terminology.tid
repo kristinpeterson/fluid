@@ -1,0 +1,16 @@
+created: 20170118062319843
+modified: 20170118081813698
+tags: [[🜅 Tests]]
+title: 🜅 Basics & Terminology
+type: text/vnd.tiddlywiki
+
+Tests are handled by rolling a //''Pool''// of dice and counting //''Successes''// — dice  that have values that are above some //''Threshold''// — and then //''Bidding''// these successes against one ore more //''Difficulties''// to determine the //''Margin''// of success or failure. Let’s break this down:
+
+* You roll a //''Pool''// of ten-sided dice. The the number of dice is determined by your relevant facet(s).
+* You compare the value of each die to a //''Threshold''//. Dice with a value higher than the threshold are //''Successes''//. The default threshold is 6 (e.g. a 50/50 chance per die).
+* You //''Bid''// your successes against a //''Difficulty''//. If a given goal has a difficulty of 4 you would need to bid 4 successes against that difficulty to succeed.
+* The number of success that are bid above or below the difficulty determines your //''Margin''//. Positive margin is good and indicates how well you performed, negative margin is bad and indicates how badly you failed.
+
+<<<
+Jonah's party is on a leisurely hunt with the King when they are attacked by a group of murderous goblins. Jonah decides that his primary objective is to draw the monsters away from the King. The GM sets a difficulty of 3 for doing so. He draws his sword and uses his 4 //Vigor// and 5 //Melee// to get a die pool of 9 dice and rolls 6 successes, more than enough. He needs to bid 3 of those successes to draw the Goblins away from the King. He can save the other 3 for defending himself or cracking some goblin skulls. In the end he decides to bid all six of his dice on his goal of drawing the goblins away, giving him a great deal of leeway in his narration. He narrates how he punches the goblin leader and then takes off running over the nearby hill, the angry goblins chasing him down.
+<<<

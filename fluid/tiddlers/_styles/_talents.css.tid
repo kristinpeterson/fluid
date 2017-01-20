@@ -1,0 +1,52 @@
+created: 20161228194430351
+modified: 20161231120526209
+tags: $:/tags/Stylesheet
+title: _talents.css
+type: text/css
+
+.talent-container {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.01em 10px;
+  position: relative;
+}
+
+.talent-container .title {
+  font-size: 1.1em;
+  font-weight: bold;
+  line-height: 0.1em;
+}
+
+.talent-container .specs {
+  font-size: 0.9em;
+  line-height: 0.1em;
+}
+
+.talent-container::first-letter { 
+  font-size: 3em;
+}
+
+.entity .title {
+  color: #90f;
+}
+
+.item .title {
+  color: #000;
+}
+
+.talent .title {
+  color: #2baa60;
+}
+
+.lineage .title {
+  color: #f30;
+}
+
+.power .title {
+  color: #aa0;
+}
+
+.property .title {
+  color: #36f;
+}

@@ -1,0 +1,23 @@
+created: 20161231105757613
+modified: 20170119042621741
+tags: [[🜄 Character]]
+title: 🜄 Skills
+type: text/vnd.tiddlywiki
+
+Characters also have a set of skills that define specific areas in which they have specific training. //Skills// are much more free-form, however generally Fluid works best with a generally fixed set of skills. See the [[🜄 Skill]], [[🜄 Fight]] and [[🜄 Craft]] droplets for a set of fixed skills for general use.
+
+|float-left|k
+|! Aptitude Rank|! Dice |! Cost to Obtain |! Total Cost |
+| Trained | 1d | 1xp | 1xp |
+| Capable | 2d | 2xp | 3xp |
+| Professional | 3d | 3xp | 6xp |
+| Expert | 4d | 4xp | 10xp |
+| Adept | 5d | 5xp | 15xp |
+
+//Skills// function similarly to //Aptitudes//, having a minimum rank of 0 and a maximum rank of 5. Unlike //Aptitudes//, they are considerably cheaper to advance, though much more specific in their utility. //Skills// are advanced by spending an amount of //Experience// equal to the rank to be gained. See the table for more details.
+
+During play //Skills// are generally paired with an //Aptitude// to determine the total die pool rolled. In general the //Skill// is determined by what you are doing and the //Aptitude// is determined by how you are going about it. In all cases the choice is driven by the narrative.
+
+<<<
+Sharon fails to get the journalist to talk through flattery and decides to step up her game by threatening to break his fingers. She still rolls //Persuasion// as her skill but uses //Vigor// instead of //Empathy// as her aptitude.
+<<<

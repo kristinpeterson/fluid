@@ -1,0 +1,16 @@
+{
+	"tiddlers": [
+		{
+			"file": "../../../README.md",
+			"fields": {
+				"type": "text/x-markdown",
+				"title": "README"
+			},
+			"file": "../../../LICENSE.md",
+			"fields": {
+				"type": "text/x-markdown",
+				"title": "🜅luid License"
+			}
+		}
+	]
+}

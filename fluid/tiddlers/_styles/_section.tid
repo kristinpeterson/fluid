@@ -1,0 +1,16 @@
+created: 20161228190708956
+modified: 20170118034858708
+title: _section
+type: text/vnd.tiddlywiki
+
+\define _macro(label)
+
+<h1>  
+  <span class="sc-head" style="font-variant: small-caps">{{!!title}}</span>
+  <$link>▸</$link>
+</h1>
+<hr />
+<$transclude field="text" mode="block">
+\end
+
+<$macrocall $name="_macro" label={{!!title}} />

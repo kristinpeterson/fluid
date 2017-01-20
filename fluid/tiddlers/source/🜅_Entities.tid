@@ -1,0 +1,23 @@
+created: 20161228185641350
+modified: 20170118053334544
+tags: [[🜅 Source]]
+title: 🜅 Entities
+type: text/vnd.tiddlywiki
+
+An entity can be anything: A player character, a piece of equipment, a city, a monster. There is no hard and fast rule about what is or isn’t an entity or how an entity should be represented, as this will depend heavily on the entity, its role in the world, the setting and the general context. When deciding how to represent any given entity it’s useful to consider a few guidelines:
+
+* //''An entity should contribute to the narrative''//. If a particular element of the world has narrative value (e.g player characters, the evil wizard, the alien weapon) then it’s worthwhile to spend a bit of time fleshing it out and giving it some representation. If it isn’t, just move along. Obviously narrative value depends greatly on the context (e.g. a supply of fresh water means much more in a desert or on a ship).
+* //''Represent simple entites simply''//. There’s no need to fill out a full character sheet for every wandering bandit, bartender and henchman; just give it the primitives it needs to play its role.
+* //''Represent entites consistently''//. Try to be consistent in how you represent entities of the same type (e.g. represent all cities in a similar way). This isn’t critical in all cases but if done appropriately will aid both the GM and the players in internalizing the sort of innate rules of the world.
+* //''Establish a system for important entites''//. Important NPCs, Player Characters, powerful equipment and the like are important, and should be treated as such. Take the time to settle on a representation for these entities or use or modify one of the droplets that define them.
+
+All entities in 🜅luid are represented with one or more of the core  [[🜅 Primitives]]. Important entites have consistent systems defined in one or more [[🜅 Droplets]]:
+
+* [[🜄 Character]] provides the default system for player characters.
+* [[🜄 Skill]], [[🜄 Craft]], [[🜄 Fight]], [[🜄 Heritage]] and [[🜄 Magic]] each augment the character system in specific ways.
+* [[🜄 Gear]] provides a system for equipment and items.
+* [[🜄 Companions]] provides a generic system for NPC henchmen, sidekicks and hirelings.
+* [[🜄 Monsters]] provides generic system for monsters, beasts and other entities.
+* [[🜄 Locales]] provides general guidelines for cities, countries and organizations.
+
+You're free to use these systems to define entities in your setting, or to define your own set of droplets.

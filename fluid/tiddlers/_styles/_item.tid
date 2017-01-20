@@ -1,0 +1,19 @@
+created: 20161231120410885
+modified: 20170118034918604
+tags: $:/tags/ViewTemplate
+title: _item
+type: text/vnd.tiddlywiki
+
+\define _talent(label)
+<div class="talent-container item">
+
+  <span class="title">{{!!title}}</span> <$link>---</$link> [ <span class="specs">Quality {{!!quality}}</span> ] ( <span class="specs">{{!!traits}}</span> )
+  <hr />
+  <$transclude field="text" mode="block" />
+
+</div>
+\end
+
+<$list filter="[is[current]tag[Item]]">
+  <$macrocall $name="_talent" label={{!!title}}/>
+</$list>

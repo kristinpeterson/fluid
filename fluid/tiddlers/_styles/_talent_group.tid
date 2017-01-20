@@ -1,0 +1,19 @@
+created: 20161230100342689
+modified: 20161230101800997
+tags: $:/tags/ViewTemplate
+title: _talent_group
+type: text/vnd.tiddlywiki
+
+\define _view(label)
+
+<hr />
+
+<$list filter="[tag[$label$]]" >
+  <h2>{{!!title}}</h2>
+{{!!title||_talents}}
+</$list>
+\end
+
+<$list filter="[is[current]tag[🜅 Skills & Talents]]">
+  <$macrocall $name="_view" label={{!!title}} />
+</$list>

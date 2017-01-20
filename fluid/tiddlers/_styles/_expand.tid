@@ -1,0 +1,33 @@
+created: 20170106033234721
+modified: 20170118034807889
+title: _expand
+type: text/vnd.tiddlywiki
+
+\define _macro(title)
+
+<hr />
+<<list-links filter:"[tag[$title$]]" class:"horizontal-list">>
+
+<ul class="horizontal-list">
+  <li>
+    <$button class="tc-btn-invisible tc-tiddlylink">Expand All Sections
+      <$action-listops 
+       $tiddler="$:/StoryList" 
+       $field="list" 
+       $filter="[list[$:/StoryList]allbefore[$title$]] [[$title$]] [tag[$title$]] [list[$:/StoryList]allafter[$title$]]"/>
+    </$button>
+  </li>
+  <li>
+    <$button class="tc-btn-invisible tc-tiddlylink">Collapse All Sections
+      <$action-listops 
+       $tiddler="$:/StoryList" 
+       $field="list" 
+       $filter="[list[$:/StoryList]] -[tag[$title$]]"/>
+    </$button>
+   </li>
+</ul>
+
+\end
+
+
+<$macrocall $name="_macro" title={{!!title}} head=<<head>> tail=<<tail>> />

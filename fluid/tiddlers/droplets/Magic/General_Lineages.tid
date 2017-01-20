@@ -1,0 +1,11 @@
+created: 20160116214259903
+creator: eschlon
+modified: 20170119093428007
+modifier: eschlon
+tags: [[♥ Ancestries & Lineages]]
+title: General Lineages
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[General Lineages]]" >
+  {{!!title||_lineage}}
+</$list>

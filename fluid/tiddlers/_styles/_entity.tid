@@ -1,0 +1,19 @@
+created: 20161230112808223
+modified: 20170118034815167
+tags: $:/tags/ViewTemplate
+title: _entity
+type: text/vnd.tiddlywiki
+
+\define _talent(label)
+<div class="talent-container entity">
+
+  <span class="title">{{!!title}}</span> <$link>---</$link> [ <span class="specs">{{!!dominance}} {{!!class}}</span> ] ( <span class="specs">{{!!traits}}</span> )
+  <hr />
+  <$transclude field="text" mode="block" />
+
+</div>
+\end
+
+<$list filter="[is[current]tag[Entity]]">
+  <$macrocall $name="_talent" label={{!!title}}/>
+</$list>

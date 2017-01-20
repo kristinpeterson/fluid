@@ -1,0 +1,22 @@
+created: 20161230104711010
+list: [[🜄 Aptitudes]] [[🜄 Passive Aspects]] [[🜄 Reactive Aspects]] [[🜄 Skills]]
+modified: 20170119042933677
+tags: [[🜅 Droplets]]
+title: 🜄 Character
+type: text/vnd.tiddlywiki
+
+This droplet defines a //Facet System// for player characters in Fluid. Schematically this facet system is described in the following table.
+
+|float-right|k
+||! Active|<|! Reactive |
+|! Active | ''//Vigor//'' | ''//Focus//'' |μ Resist |
+|~| ''//Agility//'' | ''//Cunning//'' |μ Avoid |
+|~| ''//Perception//'' | ''//Empathy//'' |μ Notice |
+|! Passive | ∑ Health | ∑ Composure ||
+|~| ∑ Stamina |<|~|
+
+Characters are represented with a system of six //Aptitudes// which broadly define the general ability of the and are rolled in tandem with a //Skill//. These two types of facets: //Aptitudes//, and //Skills// can all be improved during play directly by spending Experience
+
+The character additionally has a set of three //Reactive Aspects// and three //Passive Aspects// which are derived from the character’s //Aptitudes// and provide pools of resources that can be used in various situations. Generally, these facets can only be improved indirectly, by improving the underlying //Aptitudes// that contribute to their value.
+
+{{||_sections}}

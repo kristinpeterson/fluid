@@ -1,0 +1,31 @@
+created: 20170118062452770
+modified: 20170118081846643
+tags: [[🜅 Tests]]
+title: 🜅 Bonuses & Penalties
+type: text/vnd.tiddlywiki
+
+Talents and other mechanics can modify nearly every aspect of a test, both positively and negatively. These modifiers are often denoted with a bit of notation.
+
+!! Pool Modifiers $$(\pm Nd)$$
+Many talents provide their bonuses as extra dice in specific situations, and the GM may impose penalties to your pool based on the narrative context (e.g. attempting to pick a lock while balanced on a slippery ledge over a pit of lava).
+
+!! Success Modifiers $$(+ Ns)$$
+Some talents will provide their bonus as raw successes. There is no equivalent penalty, as successes are never directly penalized. 
+
+!! Threshold Modfiers $$(\pm Nt)$$
+The threshold of a given test can be modified direclty and/or via //Advantage// and //Disadvantage//. By convention, positive values are beneficial (e.g. $$+1t$$ lowers your threshold to 5) and negative values are detrimental (e.g. $$-1t$$ raises your threshold to 7).
+
+//Advantage// and //Disadvantage// are categorical and exclusive.
+
+* If you have one or more relevant masteries or traits you are //Advantaged//, granting a $$+1t$$ bonus.
+* If you have one or more opposing traits you are //Disadvantaged//, imposing a $$-1t$$ penalty.
+* If you have both relevant masteries/traits and opposing traits you're neutral and get no bonus or penalty.
+
+In any case, direct modifiers applied by other //Talents// are applied independently and can stack with modifiers for //Advantage// or //Disadvantage//. Talents which set the threshold directly (e.g. //set threshold to 4//) supercede and ignore //Advantage// and //Disadvantage// entirely.
+
+!! Pips $$(+ Np)$$
+Pips are the names for the dots on casino style dice, and that’s exactly what they represent. A single pip can be used to raise the face value of any one die by one point. If you have pips just take the highest non-success, spend pips to make it a success and then move on to the next highest and repeat until you either have all successes or run out of pips. //Boons// granted by equipment are the standard way of gaining pips, though some //Talents// also provide pips.
+
+<<<
+Lukas spends the afternoon attempting to convince the local milita that the Mayor's son is actually the one behind the recent murder spree. He decides to use his 4 //Empathy// and 4 //Persuasion// in the attempt giving him a base die pool of 8. The GM imposes a -1d penalty to the roll, as the milita lieutenant is paid by the Mayor; however Lukas's //Brutally Honest// trait gives him a +1t bonus and the group decides that his accumulated evidence is pretty damning, worth 5 pips. Lukas rolls 7 dice with a threshold of 5 and gets [10, 9, 9, 5, 3, 3, 1], four natrual successes. He then uses four of his five his pips to upgrade his the two 3's to 5's resulting in a total of 7 successes for the test.
+<<<

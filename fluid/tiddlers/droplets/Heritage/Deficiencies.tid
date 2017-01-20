@@ -1,0 +1,11 @@
+created: 20160116223344182
+creator: eschlon
+modified: 20170119092620968
+modifier: eschlon
+tags: [[♥ Ancestries & Lineages]]
+title: Deficiencies
+type: text/vnd.tiddlywiki
+
+<$list filter="[tag[Deficiencies]]" >
+  {{!!title||_lineage}}
+</$list>

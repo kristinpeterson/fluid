@@ -1,0 +1,24 @@
+created: 20161228154904747
+modified: 20170120110312856
+tags: 
+title: $:/config/FileSystemPaths
+type: text/vnd.tiddlywiki
+
+[prefix[🜅]addprefix[source/]]
+[prefix[🜄]addprefix[droplets/]]
+[prefix[♣]addprefix[droplets/talents/]]
+[prefix[♥]addprefix[droplets/lineages/]]
+[prefix[♦]addprefix[droplets/properties/]]
+[prefix[⭑]addprefix[droplets/powers/]]
+
+[prefix[♠︎]addprefix[streams/items/]]
+[prefix[♞]addprefix[streams/entities/]]
+
+[prefix[_]addprefix[_styles/]]
+
+[regexp[(?i)\.svg]addprefix[_images/]]
+[regexp[(?i)\.jpg]addprefix[_images/]]
+[regexp[(?i)\.png]addprefix[_images/]]
+[regexp[(?i)\.meta]addprefix[_images/]]
+
+[is[system]removeprefix[$:/]addprefix[_system/]]

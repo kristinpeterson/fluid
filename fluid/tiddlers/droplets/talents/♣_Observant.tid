@@ -1,0 +1,10 @@
+created: 20160203062455044
+creator: eschlon
+modified: 20170119091352406
+modifier: eschlon
+reqs: 1 Perception, 1 Empathy
+tags: Talent Perception Empathy
+title: ♣ Observant
+type: text/vnd.tiddlywiki
+
+Whenever you take involuntary tax, either as a result of external damage or as a result of failing a test, if you can narrate how your observational ability helps you avoid the tax, you may pay ''1x Notice'' to reduce that tax by an amount equal to your current //Notice//.

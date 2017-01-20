@@ -1,0 +1,19 @@
+created: 20161228191253287
+modified: 20170118061024066
+tags: [[🜅 Primitives]]
+title: 🜅 Boons & Gifts
+type: text/vnd.tiddlywiki
+
+Equipment, enchantments, tools and other things that provide assistance to various actions are represented as ''Boons''. Boons are measured in Pips ($$p$$) and provide their pips as a bonus to relevant rolls.
+
+All boons have a //quality// in pips, which defines the strength of the boon. When applying a boon the GM will decide if the boon is optimal, functional or irrelevant. Optimal boons provide their full quality in pips to a roll. Functional boons apply half (rounded down) and irrelevant boons cannot be applied at all.
+
+<<<
+Jonah the barbarian possesses a fine steel axe ($$Q7$$), which grants a $$7p$$ bonus to his attack rolls. If he attempts to pry open a chest it will only contribute $$3p$$. If he attempts to use it to sing a song, it’s probably irrelevant.
+<<<
+
+//''A given roll can only benefit from one boon''//; however, certain boons – known as gifts – can be stacked on a single roll (in addition to a single boon).
+
+<<<
+Fin the thief has a good quality short bow ($$Q3$$), which grants a $$3p$$ bonus on his attacks. Being a half-elf, he also has elven eyesight, a $$Q3$$ gift and the //Sniper// talent, which can grant him a $$Q5$$ gift to attacks at very long range. If he makes a bow attack with all of his bonuses active he would apply an $$11p$$ bonus to his action!
+<<<

@@ -1,0 +1,28 @@
+created: 20161230114737240
+modified: 20170106075102501
+tags: $:/tags/Stylesheet
+title: _tables.css
+type: text/css
+
+.full-width-table{
+  width:100%;
+}
+
+.float-left{
+  float: left;
+  margin: 5px 25px;
+}
+
+.float-right{
+  float: right;
+  margin: 5px 25px;
+}
+
+.sc-head{
+  font-size: 1.1em;
+  font-variant: small-caps;
+}
+
+.katex{
+  font-size: .9em;
+}

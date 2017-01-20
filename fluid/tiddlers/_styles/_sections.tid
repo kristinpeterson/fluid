@@ -1,0 +1,12 @@
+created: 20161228191455472
+modified: 20170118034853572
+title: _sections
+type: text/vnd.tiddlywiki
+
+\define _sections(page)
+<$list filter="[tag[$page$]]" >
+  {{!!title||_section}}
+</$list>
+\end
+
+<$macrocall $name="_sections" page={{!!title}} />

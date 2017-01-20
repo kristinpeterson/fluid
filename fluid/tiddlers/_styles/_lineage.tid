@@ -1,0 +1,19 @@
+created: 20161228200047432
+modified: 20170118034924689
+tags: $:/tags/ViewTemplate
+title: _lineage
+type: text/vnd.tiddlywiki
+
+\define _talent(label)
+<div class="talent-container lineage">
+
+  <span class="title">{{!!title}}</span> <$link>---</$link> [ <span class="specs">{{!!reqs}}</span> ]
+  <hr />
+  <$transclude field="text" mode="block" />
+
+</div>
+\end
+
+<$list filter="[is[current]tag[Lineage]]">
+  <$macrocall $name="_talent" label={{!!title}}/>
+</$list>

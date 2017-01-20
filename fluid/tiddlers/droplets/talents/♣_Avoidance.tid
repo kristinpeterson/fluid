@@ -1,0 +1,10 @@
+created: 20160203062118703
+creator: eschlon
+modified: 20170119091352413
+modifier: eschlon
+reqs: 1 Agility, 1 Cunning
+tags: Talent Cunning Agility
+title: ♣ Avoidance
+type: text/vnd.tiddlywiki
+
+Whenever you take involuntary tax, either as a result of external damage or as a result of failing a test, if you can narrate how you are avoiding the tax, you may pay ''1x Avoid'' to reduce that tax by an amount equal to your current //Avoid//.

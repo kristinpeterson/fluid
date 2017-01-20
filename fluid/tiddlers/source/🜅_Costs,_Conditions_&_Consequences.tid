@@ -1,0 +1,27 @@
+created: 20170118074728253
+modified: 20170118081700993
+tags: [[🜅 Taxes]]
+title: 🜅 Costs, Conditions & Consequences
+type: text/vnd.tiddlywiki
+
+Taxes come in three varieties. //Costs// are generally voluntary and commonly used as the activation cost for talents. //Conditions// and //Consequences// are typically involuntary and generally the result of failing a test or being affected by some negative situation.
+
+All taxes have a //Severity//, which indicates how many dice must be paid, and a //Scope// which indicates which facet(s) must absorb the tax and how the tax can be distributed among those facet(s). Severity and Scope are determined differently for each kind of tax.
+
+* //''Costs''// are voluntary taxes paid to activate a Talent. They have a //''Severity and Scope defined by the Talent''// leveraging the cost
+
+<<<
+Lukas’ //Field Medic// talent costs 1 die of //Medicine// skill. If he wants the bonus it provides he must apply one point of tax to that skill.
+<<<
+
+* //''Conditions''// are involuntary taxes applied as a result of failing to avoid //''intentional harm''//. They have a //''Severity equal to the margin of failure''// and //''must be applied atomically''// to a narratively relevant facet
+
+<<<
+Fin fails to defend himself against an angry bandit and sustains a 4 die Condition. He must apply all 4 dice of that tax to a single, narratively relevant facet.
+<<<
+
+* //''Consequences''// are involuntary taxes applied as a result of sustaining //''accidental injury''//. They have a //''Severity equal to the margin of failure''// and //''must be distributed''// among one or more narratively relevant facet(s)
+
+<<<
+Jonas attempts to pick a difficult lock and rolls 2 successes against a difficulty of 7, failing by a margin of 4. The lock isn’t out to get him, so the GM levies the tax as a Consequence. Jonas may distribute those four dice in tax among any number of narratively relevant facet(s). Note that If the lock had been trapped, the GM may have levied the tax as a Condition instead.
+<<<

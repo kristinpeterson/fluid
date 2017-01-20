@@ -1,0 +1,14 @@
+branches:
+  only:
+    - master
+
+language: node_js
+node_js:
+  - node
+
+before_script:
+  - npm install -g tiddlywiki
+script:
+  - bin/build-readonly.sh -p fluid
+after_success:
+  - bin/deploy-to-gh.sh -p fluid

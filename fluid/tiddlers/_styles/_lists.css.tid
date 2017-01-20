@@ -1,0 +1,18 @@
+created: 20170106074324321
+modified: 20170106080458404
+tags: $:/tags/Stylesheet
+title: _lists.css
+type: text/css
+
+.horizontal-list {
+  text-align: center;
+}
+
+.horizontal-list li {
+  display: inline;
+  padding-right: 0.1em;
+}
+
+.horizontal-list li:not(:first-child):before {
+    content: " :: ";
+}

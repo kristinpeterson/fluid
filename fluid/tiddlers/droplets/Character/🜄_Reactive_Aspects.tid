@@ -1,0 +1,21 @@
+created: 20161231105809545
+modified: 20170119042616503
+tags: [[🜄 Character]]
+title: 🜄 Reactive Aspects
+type: text/vnd.tiddlywiki
+
+A character’s //Reactive Aspects// serve as a pool of resources that they can use to mitigate extreme and unexpected situations. These aspects are derived taking the average (rounded down) of two of the character’s //Aptitudes//.
+
+The primary purpose of the //Reactive Aspects// is to mitigate incoming involuntary tax, particularly from //Conditions//.
+
+''Resist'' is a measure of the character’s ability to sustain physical or mental trauma. It is the average of the character’s //Vigor// and //Focus//. It is complimentary to the Power Stance, strong against the Awareness Stance and comes with the following //Talent//.
+
+{{♣ Resistant||_talent}}
+
+''Avoid'' is a measure of the character’s ability to get out of the way of things. It is the average of the character’s //Agility// and //Cunning//. It is complimentary to the Grace Stance, strong against the Power Stance and comes with the following //Talent//.
+
+{{♣ Avoidance||_talent}}
+
+''Notice'' is a measure of the character’s general awareness of their environment and ability to use that to their advantage. It is the average of the character’s //Perception// and //Empathy//. It is complimentary to the Awareness Stance, strong against the Grace Stance and comes with the following //Talent//.
+
+{{♣ Observant||_talent}}
