@@ -1,7 +1,8 @@
 created: 20170118062522178
-modified: 20170118081820182
-tags: [[🜅 Tests]]
-title: 🜅 Difficulty & Margin
+icon: fluid.svg
+modified: 20170123094634093
+tags: Tests
+title: Difficulty & Margin
 type: text/vnd.tiddlywiki
 
 Some tasks are more difficult than others. Difficulty is represented as a number that is bid against to to determine the outcome of a test. Consult the chart for some guidelines.

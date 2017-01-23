@@ -1,7 +1,8 @@
 created: 20170118062551688
-modified: 20170118081831796
-tags: [[🜅 Tests]]
-title: 🜅 Success & Failure
+icon: fluid.svg
+modified: 20170123094642902
+tags: Tests
+title: Success & Failure
 type: text/vnd.tiddlywiki
 
 Fluid defines success and failure primarily as //''who gets narrative control of the outcome''//.

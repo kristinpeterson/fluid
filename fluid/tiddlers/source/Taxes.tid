@@ -1,8 +1,9 @@
 created: 20161228202506999
-list: [[🜅 Taxing Facets]] [[🜅 Costs, Conditions & Consequences]] [[🜅 The Effects of Tax]] [[🜅 Recovering Tax]]
-modified: 20170118081732263
-tags: [[🜅 Mechanics]]
-title: 🜅 Taxes
+icon: fluid.svg
+list: [[:: Taxing Facets]] [[:: Costs, Conditions & Consequences]] [[:: The Effects of Tax]] [[:: Recovering Tax]]
+modified: 20170123094733244
+tags: Mechanics
+title: Taxes
 type: text/vnd.tiddlywiki
 
 Entities in Fluid do not have independent resource pools. Instead costs, injuries and other negative effects are handled by reducing one or more of the character’s facets directly. A devastating sword blow might reduce a character’s //Vigor// aptitude or their //Combat// skill; a powerful spell might cost several dice of //Composure//.

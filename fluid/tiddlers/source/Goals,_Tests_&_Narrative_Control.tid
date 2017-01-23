@@ -1,7 +1,8 @@
 created: 20170118062131831
-modified: 20170118081808114
-tags: [[🜅 Tests]]
-title: 🜅 Goals, Tests & Narrative Control
+icon: fluid.svg
+modified: 20170123094606471
+tags: Tests
+title: Goals, Tests & Narrative Control
 type: text/vnd.tiddlywiki
 
 Whenever you wish to do something important the first step is to declare what you’re trying to do and how you are going to try to accomplish it.

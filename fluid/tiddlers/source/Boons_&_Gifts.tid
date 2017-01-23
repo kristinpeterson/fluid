@@ -1,7 +1,8 @@
 created: 20161228191253287
-modified: 20170118061024066
-tags: [[🜅 Primitives]]
-title: 🜅 Boons & Gifts
+icon: fluid.svg
+modified: 20170123094258845
+tags: Primitives
+title: Boons & Gifts
 type: text/vnd.tiddlywiki
 
 Equipment, enchantments, tools and other things that provide assistance to various actions are represented as ''Boons''. Boons are measured in Pips ($$p$$) and provide their pips as a bonus to relevant rolls.

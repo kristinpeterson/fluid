@@ -1,7 +1,8 @@
 created: 20170118062319843
-modified: 20170118081813698
-tags: [[🜅 Tests]]
-title: 🜅 Basics & Terminology
+icon: fluid.svg
+modified: 20170123094615657
+tags: Tests
+title: Basics & Terminology
 type: text/vnd.tiddlywiki
 
 Tests are handled by rolling a //''Pool''// of dice and counting //''Successes''// — dice  that have values that are above some //''Threshold''// — and then //''Bidding''// these successes against one ore more //''Difficulties''// to determine the //''Margin''// of success or failure. Let’s break this down:

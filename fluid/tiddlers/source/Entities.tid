@@ -1,7 +1,8 @@
 created: 20161228185641350
-modified: 20170118053334544
-tags: [[🜅 Source]]
-title: 🜅 Entities
+icon: fluid.svg
+modified: 20170123094819025
+tags: Source
+title: Entities
 type: text/vnd.tiddlywiki
 
 An entity can be anything: A player character, a piece of equipment, a city, a monster. There is no hard and fast rule about what is or isn’t an entity or how an entity should be represented, as this will depend heavily on the entity, its role in the world, the setting and the general context. When deciding how to represent any given entity it’s useful to consider a few guidelines:

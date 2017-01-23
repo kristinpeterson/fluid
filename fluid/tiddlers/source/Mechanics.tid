@@ -1,9 +1,10 @@
 color: 
 created: 20161228204627004
-list: [[🜅 Tests]] [[🜅 Taxes]] [[🜅 Advancement]]
-modified: 20170106085153762
-tags: [[🜅 Source]]
-title: 🜅 Mechanics
+icon: fluid.svg
+list: Tests Taxes Advancement
+modified: 20170123094757194
+tags: Source
+title: Mechanics
 type: text/vnd.tiddlywiki
 
 🜅luid has three basic mechanics. [[🜅 Tests]] are used to determine the outcome of goals and actions, and to define who gets narrative control when things happen. [[🜅 Taxes]] are used to pay for the costs of special powers and abilities, and to represent the effects of failure and injuries. Finally, [[🜅 Advancement]] describes how entities improve and evolve over the course of play.

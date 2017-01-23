@@ -1,0 +1,20 @@
+created: 20170123090329727
+modified: 20170123090329727
+title: fluid.svg
+type: image/svg+xml
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="470 -130 45 32" width="45pt" height="32pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.2.2 
+    <dc:date>2017-01-23 09:01:44 +0000</dc:date>
+  </metadata>
+  <defs/>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <g>
+      <title>Layer 1</title>
+      <path d="M 473 -128 L 495 -128 L 484 -104.53333 Z M 498.59375 -127 L 512.002 -127 C 512.5132 -126.99924 513.0242 -126.70634 513.4142 -126.12132 C 513.80474 -125.53553 514 -124.76777 514 -124 L 515 -124 L 515 -127 L 515 -130 L 512 -130 L 500 -130 L 498 -130 L 470 -130 L 485 -98 L 493.4375 -116 L 507.002 -116 C 507.5132 -115.99924 508.0242 -115.70634 508.4142 -115.12132 C 508.80474 -114.53553 509 -113.76777 509 -113 L 510 -113 L 510 -116 L 510 -119 L 507 -119 L 494.84375 -119 Z" fill="black"/>
+    </g>
+  </g>
+</svg>

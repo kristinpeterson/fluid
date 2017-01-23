@@ -1,7 +1,8 @@
 created: 20161228190500590
-modified: 20170118081940361
-tags: [[🜅 Primitives]]
-title: 🜅 Traits
+icon: fluid.svg
+modified: 20170123094204303
+tags: Primitives
+title: Traits
 type: text/vnd.tiddlywiki
 
 ''Traits'' provide a basic description of the essential characteristics of an [[entity|🜅 Entities]]. Traits are represented as a list of words or short phrases that define what an entity is, its properties, and/or why it behaves as it does. Traits are neither good nor bad, and can provide either [[advantage|🜅 Bonuses & Penalties]] or [[disadvantage|🜅 Bonuses & Penalties]] to the entity depending on the context.

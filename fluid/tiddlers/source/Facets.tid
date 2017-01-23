@@ -1,7 +1,8 @@
 created: 20161228191342101
-modified: 20170118060741105
-tags: [[🜅 Primitives]]
-title: 🜅 Facets
+icon: fluid.svg
+modified: 20170123094216644
+tags: Primitives
+title: Facets
 type: text/vnd.tiddlywiki
 
 ''Facets'' define the //capabilities// of an [[entity|🜅 Entities]]. They are represented by a //Term//, which describes some general domain of activity, and a //Rank// measured in dice ($$d$$), which denotes how accomplished the entity is in that particular domain.
