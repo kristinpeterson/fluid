@@ -1,0 +1,51 @@
+created: 20170124054310026
+modified: 20170124061825006
+tags: $:/tags/ViewTemplate
+title: __license
+type: text/vnd.tiddlywiki
+
+\define _license(label)
+<a rel="license" target="_blank" href="http://creativecommons.org/licenses/by-sa/4.0/">
+[img[Creative Commons Attribution-ShareAlike License|cc_by-sa.png]]
+</a>
+\end
+
+<$list filter="[is[current]field:icon[fluid.svg]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]field:icon[droplet.svg]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Talent]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Lineage]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Property]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Power]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Facet]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Aspect]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Aptitude]]">
+  <$macrocall $name="_license" />
+</$list>
+
+<$list filter="[is[current]tag[Skill]]">
+  <$macrocall $name="_license" />
+</$list>
