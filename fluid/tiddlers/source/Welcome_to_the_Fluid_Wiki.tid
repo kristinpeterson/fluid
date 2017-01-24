@@ -2,7 +2,7 @@ created: 20161228214259350
 creator: danielo515
 icon: fluid.svg
 list: 
-modified: 20170124041329292
+modified: 20170124070636352
 title: Welcome to the Fluid Wiki
 type: text/vnd.tiddlywiki
 
@@ -26,14 +26,10 @@ In Fluid the players and the game master are collaborators in building the narra
 
 ''Fluid is Layered''
 
-Fluid is composed of a set of core primitives and mechanics called [[🜅 Source]] that defines the system foundation. Source provides a simple, complete ruleset that can be used on its own, or as a framework to build on. Additional enrichment is provided by [[🜅 Droplets]], which provide additional systems, talents, and tables.
+Fluid is composed of a set of core primitives and mechanics called [[Fluid Source]] that defines the system foundation. Source provides a simple, complete ruleset that can be used on its own, or as a framework to build on. Additional enrichment is provided by [[▽ Droplets]], which provide additional systems, talents, and tables.
 
 ''Fluid is Open''
 
-Fluid is licensed under the permissive [[Creative Commons BY-SA 4.0|http://creativecommons.org/licenses/by-sa/4.0/]] license. You're free to use it as you wish for any purpose provided that you provide attribution and distribute your modifications under the same license.
+Fluid is licensed under the permissive [[Creative Commons BY-SA 4.0|http://creativecommons.org/licenses/by-sa/4.0/]] license. You're free to use it as you wish for any purpose provided that you provide attribution and distribute your modifications under the same license. That being said, your setting is your own. See the [[Fluid License]] for details.
 
-That being said, your setting is your own. You can define [[🜅 Streams]] to provide settings and sourcebooks compatible with the 🜅luid system. You retain all rights to any non-rules-related content defined in a 🜅 Stream.
-
-See the [[🜅luid License]] for details.
-
-If this seems interesting, head over and take a look at [[🜅 Source]] first, to learn about the foundation of the system.
+If this seems interesting, head over and take a look at [[Fluid Source]] first, to learn about the foundation of the system.
