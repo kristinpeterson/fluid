@@ -1,7 +1,9 @@
+caption: [img height=10 [fluid.svg]] {{!!title}}
+color: #ccc
 created: 20161228202506999
 icon: fluid.svg
-list: [[:: Taxing Facets]] [[:: Costs, Conditions & Consequences]] [[:: The Effects of Tax]] [[:: Recovering Tax]]
-modified: 20170123094733244
+list: [[Taxing Facets]] [[Costs, Conditions & Consequences]] [[The Effects of Tax]] [[Recovering Tax]]
+modified: 20170124064648663
 tags: Mechanics
 title: Taxes
 type: text/vnd.tiddlywiki

@@ -1,6 +1,7 @@
+caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118062551688
 icon: fluid.svg
-modified: 20170123094642902
+modified: 20170124063201556
 tags: Tests
 title: Success & Failure
 type: text/vnd.tiddlywiki

@@ -1,5 +1,5 @@
 created: 20161228194430351
-modified: 20161231120526209
+modified: 20170124065054829
 tags: $:/tags/Stylesheet
 title: _talents.css
 type: text/css
@@ -44,7 +44,7 @@ type: text/css
 }
 
 .power .title {
-  color: #aa0;
+  color: #bb3;
 }
 
 .property .title {

@@ -1,7 +1,9 @@
+caption: [img height=10 [fluid.svg]] {{!!title}}
+color: #ccc
 created: 20161228202454749
 icon: fluid.svg
-list: [[:: Goals, Tests & Narrative Control]] [[:: Basics & Terminology]] [[:: Bonuses & Penalties]] [[:: Difficulty & Margin]] [[:: Success & Failure]] [[:: Help & Collaboration]]
-modified: 20170123094745230
+list: [[Goals, Tests & Narrative Control]] [[Basics & Terminology]] [[Bonuses & Penalties]] [[Difficulty & Margin]] [[Success & Failure]] [[Help & Collaboration]]
+modified: 20170124064649667
 tags: Mechanics
 title: Tests
 type: text/vnd.tiddlywiki
