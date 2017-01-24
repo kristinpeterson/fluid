@@ -1,12 +1,12 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20161228191342101
 icon: fluid.svg
-modified: 20170124062954809
+modified: 20170124071149360
 tags: Primitives
 title: Facets
 type: text/vnd.tiddlywiki
 
-''Facets'' define the //capabilities// of an [[entity|🜅 Entities]]. They are represented by a //Term//, which describes some general domain of activity, and a //Rank// measured in dice ($$d$$), which denotes how accomplished the entity is in that particular domain.
+''Facets'' define the //capabilities// of an [[entity|Entities]]. They are represented by a //Term//, which describes some general domain of activity, and a //Rank// measured in dice ($$d$$), which denotes how accomplished the entity is in that particular domain.
 
 Generally facets have the following properties:
 
@@ -14,13 +14,13 @@ Generally facets have the following properties:
 * A //''Rank''// in dice, describing the entity's ability in that domain
 * An //''Advancment Mechanic''// describing whether the facet can be improved, and the method of doing so
 
-As discussed in the section on [[🜅 Entities]], important entities in your setting should have a system of facets defined as one or more [[🜅 Droplets]] before play begins. The core droplets provide a number of systems for the most common types of entities.
+As discussed in the section on [[Entities]], important entities in your setting should have a system of facets defined as one or more [[▽ Droplets]] before play begins. The core droplets provide a number of systems for the most common types of entities.
 
-* [[🜄 Character]] provides the default system for player characters.
-* [[🜄 Skill]], [[🜄 Craft]], [[🜄 Conflict]], [[🜄 Heritage]] and [[🜄 Magic]] each augment the character system in specific ways.
-* [[🜄 Gear]] provides a system for equipment and items.
-* [[🜄 Companions]] provides a generic system for NPC henchmen, sidekicks and hirelings.
-* [[🜄 Monsters]] provides generic system for monsters, beasts and other entities.
-* [[🜄 Locales]] provides general guidelines for cities, countries and organizations.
+* [[▽ Character]] provides the default system for player characters.
+* [[▽ Skill]], [[▽ Craft]], [[▽ Conflict]], [[▽ Heritage]] and [[▽ Magic]] each augment the character system in specific ways.
+* [[▽ Gear]] provides a system for equipment and items.
+* [[▽ Companions]] provides a generic system for NPC henchmen, sidekicks and hirelings.
+* [[▽ Monsters]] provides generic system for monsters, beasts and other entities.
+* [[▽ Locales]] provides general guidelines for cities, countries and organizations.
 
 You're free to use these systems to define entities in your setting, or to define your own set of droplets.

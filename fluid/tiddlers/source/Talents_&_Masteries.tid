@@ -1,19 +1,19 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20161228191544169
 icon: fluid.svg
-modified: 20170124062927261
+modified: 20170124071222062
 tags: Primitives
 title: Talents & Masteries
 type: text/vnd.tiddlywiki
 
-''Talents'' grant special abilities, powers or properties to an entity. Talents are extremely diverse and can be used to represent all manner of things, from fighting styles to magical arts to special powers. In 🜅luid, talents are technically free form, and can be invented during play; however, since they can do literally anything (including break the rules) they should generally involve discussion and agreement among everyone. Alternatively, one can use talents from one of the available [[🜅 Droplets]], many of which provide talents and talent systems.
+''Talents'' grant special abilities, powers or properties to an entity. Talents are extremely diverse and can be used to represent all manner of things, from fighting styles to magical arts to special powers. In 🜅luid, talents are technically free form, and can be invented during play; however, since they can do literally anything (including break the rules) they should generally involve discussion and agreement among everyone. Alternatively, one can use talents from one of the available [[▽ Droplets]], many of which provide talents and talent systems.
 
 All talents have the following characteristics:
 
 * One or more //''Prerequisites''// which are required in order to obtain the talent 
 * An //''Effect''// which defines what the talent does 
-* A //''Cost''// of using the talent, which is typically some kind of [[tax|🜅 Taxes]] and/or narrative requirement.
+* A //''Cost''// of using the talent, which is typically some kind of [[tax|Taxes]] and/or narrative requirement.
 
 {{♣ Field Medic||_talent}}
 
-In addition to these more specific Talents, character's can also acquire ''Masteries'' in specific actions. A //Mastery// is just a generic //Talent// which which indicates that the character is particularly skilled at some specific action. Masteries are free-form, and can be invented during play, but should be very specific. Masteries provide [[Advantage|🜅 Bonuses & Penalties]] on relevant actions, similar to [[Traits|🜅 Traits]].
+In addition to these more specific Talents, character's can also acquire ''Masteries'' in specific actions. A //Mastery// is just a generic //Talent// which which indicates that the character is particularly skilled at some specific action. Masteries are free-form, and can be invented during play, but should be very specific. Masteries provide [[Advantage|Bonuses & Penalties]] on relevant actions, similar to [[Traits|Traits]].
