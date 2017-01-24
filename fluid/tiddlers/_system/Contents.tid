@@ -1,9 +1,9 @@
 color: #000
 created: 20161228121608022
 icon: $:/core/images/menu-button
-list: [[Fluid Source]] [[▽ Droplets]] Streams [[♥ Ancestries & Lineages]] [[♣ Skills & Talents]] [[♠︎ Items & Equipment]] [[♦ Properties]] [[⭑ Spells & Powers]] [[♞ Eldritch Entities]]
+list: [[Fluid Source]] [[▽ Fluid Droplets]] [[Fluid Streams]] [[♥ Ancestries & Lineages]] [[♣ Skills & Talents]] [[♠︎ Items & Equipment]] [[♦ Properties]] [[⭑ Spells & Powers]] [[♞ Eldritch Entities]]
 list-before: $:/core/ui/SideBar/Open
-modified: 20170124070723476
+modified: 20170124072332102
 tags: $:/tags/SideBar
 title: Contents
 type: text/vnd.tiddlywiki
