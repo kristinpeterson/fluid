@@ -3,12 +3,12 @@ color: #ccc
 created: 20161228202454749
 icon: fluid.svg
 list: [[Goals, Tests & Narrative Control]] [[Basics & Terminology]] [[Bonuses & Penalties]] [[Difficulty & Margin]] [[Success & Failure]] [[Help & Collaboration]]
-modified: 20170124064649667
+modified: 20170124071349151
 tags: Mechanics
 title: Tests
 type: text/vnd.tiddlywiki
 
-All actions in 🜅luid are handled by setting a //''Goal''// and //''Narrating''// an event; this is the core action mechanic. When the outcome of an action is uncertain and interesting, a ''Test'' is made to determine the degree to which the goal was achieved and who gets to lead the narration. This is in contrast to many other systems, so it’s important to drive home: 
+All actions in Fluid are handled by setting a //''Goal''// and //''Narrating''// an event; this is the core action mechanic. When the outcome of an action is uncertain and interesting, a ''Test'' is made to determine the degree to which the goal was achieved and who gets to lead the narration. This is in contrast to many other systems, so it’s important to drive home: 
 
 * //''The sole purpose of a Test is to drive the narrative''//. When you want to do something state your goal, don’t immediately reach for the dice.
 
