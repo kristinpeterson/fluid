@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118075447198
 icon: fluid.svg
-modified: 20170124063413337
+modified: 20170124071718926
 tags: Advancement
 title: Character
 type: text/vnd.tiddlywiki
@@ -18,12 +18,12 @@ Each session a maximum of three points of //Character// are awarded for filling 
 Each role awards one point of //Character//. //''The Bard''// is awarded at the beginning of the session, and generally no player should give the recounting for two sessions in a row. //''The Protagonist''// and //''The Narrator''// are awarded by consensus at the end of each session, and should be awarded to two different players.
 
 !! Spending Character
-Character can be spent directly to acquire [[🜅 Talents & Masteries]]. All talents and masteries cost 3 character.
+Character can be spent directly to acquire [[Talents & Masteries]]. All talents and masteries cost 3 character.
 
 !! Burning Character
 //Character// is awarded to players that help drive the narrative and world and can be burned to give those players more influence on the growing narrative. A point of //Character// can be spent to perform an //''Epic Feat''//, allowing you to take narrative control and narrate the outcome of a critical moment or to perform some amazing action. There are a couple of guidelines for performing //Epic Feats//:
 
-* You must have //Advantage// (see [[🜅 Traits]]) in order to perform an //Epic Feat//. That is, you must be acting in accordance with your character's traits.
+* You must have //Advantage// (see [[Traits]]) in order to perform an //Epic Feat//. That is, you must be acting in accordance with your character's traits.
 * The //Epic Feat// should be narratively important for the story and/or your character's development.
 * If you perform the same or similar //Epic Feats// three times you may list that ability as a new //Talent//. You should work with the GM and other players to define the specific mechanics of your new //Talent//, basing them off of how you've used the feat in the past.
 

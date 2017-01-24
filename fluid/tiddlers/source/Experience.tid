@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170118075439572
 icon: fluid.svg
-modified: 20170124063351312
+modified: 20170124071743940
 tags: Advancement
 title: Experience
 type: text/vnd.tiddlywiki
@@ -17,10 +17,10 @@ Experience is awarded during play for participating in exciting and memorable ev
 
 Experience is primarily the domain of the //''players''//, the GM should not generally give experience directly. Nominations can be made directly during play, at the end of a scene or at the end of a session. Whatever works best for your group and doesn't break up the normal flow of the narrative.
 
-The main purpose of experience is to improve a character's capabilities. This includes improving [[🜅 Facets]] and acquiring new [[🜅 Talents & Masteries]]. 
+The main purpose of experience is to improve a character's capabilities. This includes improving [[Facets]] and acquiring new [[Talents & Masteries]]. 
 
-* The cost of advancing a [[🜅 Facet]] depends on the kind of entity being considered and the droplet system used. For general player characters see the [[🜄 Character]] droplet for specific costs.
-* [[🜅 Talents & Masteries]] cost $$9xp$$ to acquire.
+* The cost of advancing a [[Facet]] depends on the kind of entity being considered and the droplet system used. For general player characters see the [[▽ Character]] droplet for specific costs.
+* [[Talents & Masteries]] cost $$9xp$$ to acquire.
 
 !! Burning Experience
 Experience can also be spent to gain a //''Flash of Insight''//, allowing you to re-roll all failed dice after a test has been rolled. Pass or fail, the burned Experience is lost.

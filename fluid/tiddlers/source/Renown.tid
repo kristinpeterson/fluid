@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20170123093134388
 icon: fluid.svg
-modified: 20170124063359771
+modified: 20170124071756863
 tags: Advancement
 title: Renown
 type: text/vnd.tiddlywiki
@@ -12,9 +12,9 @@ Renown represents the recognition and reputation that comes with accomplishing g
 A point of Renown is given out by the GM whenever the group completes some major arc of the story. Renown always comes with a new Trait. Whenever a point of Renown is granted, all of the players should decide on a new trait, related to their trials and accomplishments over the course of the story arc, and announce it to the group for approval. Traits can be basically anything so long as they're relevant to the accomplishment (e.g. Dragonslayer, Oathbreaker, treasure hunter, etc.).
 
 !! Spending Renown
-//Renown// can be spent in a variety of ways that solidfy your character and cement their achievements and place in the world. Unlike [[🜅 Experience]] and [[🜅 Character]], it //''must be spent immediately''// and should be used only on things that are related to the accomplishment that awarded the //Renown//.
+//Renown// can be spent in a variety of ways that solidfy your character and cement their achievements and place in the world. Unlike [[Experience]] and [[Character]], it //''must be spent immediately''// and should be used only on things that are related to the accomplishment that awarded the //Renown//.
 
-* Certain facet systems (e.g. [[🜄 Prestige]]) use //Renown// as an advancment mechanic for their facets.
+* Certain facet systems (e.g. [[▽ Prestige]]) use //Renown// as an advancment mechanic for their facets.
 * You may trade your //Renown// for 10 points of //Experience//. Reflection at the end of your quest has made you wiser, stronger and more capable.
 * You may trade your //Renown// for 3 points of //Character//. Overcoming adversity has taught you a variety of tricks and honed new abilities.
 * You may trade your //Renown// to make one ally a steadfast companion, such as a faithful steed, an animal companion, a loyal henchman or a steadfast friend. Allies acquired in this way are steadfastly loyal, they may not always agree with your actions, but will always stand with you.

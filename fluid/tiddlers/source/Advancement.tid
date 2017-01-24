@@ -3,18 +3,18 @@ color: #ccc
 created: 20161228202514497
 icon: fluid.svg
 list: Experience Character Renown
-modified: 20170124064819696
+modified: 20170124071616159
 tags: Mechanics
 title: Advancement
 type: text/vnd.tiddlywiki
 
-In 🜅luid you are rewarded for playing your part well, participating in memorable and exciting events and contributing positively to the world and the story. These rewards can then be spent to advance your character, or for other beneficial effects. 
+In Fluid you are rewarded for playing your part well, participating in memorable and exciting events and contributing positively to the world and the story. These rewards can then be spent to advance your character, or for other beneficial effects. 
 
-🜅luid has three kinds of awards: [[🜅 Experience]], [[🜅 Character]] and [[🜅 Renown]]. Each has a different purpose and method of acquistion. What follows is a higher level overview of the design and intetion of the advancment system. The specifics for each award can be found on their respective pages.
+Fluid has three kinds of awards: [[Experience]], [[Character]] and [[Renown]]. Each has a different purpose and method of acquistion. What follows is a higher level overview of the design and intetion of the advancment system. The specifics for each award can be found on their respective pages.
 
 
-* //''Experience''// rewards are handled //''by the players''// and are a //''frequent''// reward for participation in small, significant events that allows the player to develop and improve their character. It is primarily used to improve [[🜅 Facets]] and to acquire [[🜅 Talents & Masteries]].
-* //''Character''// rewards are handled //''by the players and GM''// and is a //''scarce''// resource given specifically for contributing and enriching the world and the narrative that allows players to take narrative control in certain situations. It can be used to acquire existing [[🜅 Talents & Masteries]], to invent new ones, or to narrate key events in a character's legacy.
+* //''Experience''// rewards are handled //''by the players''// and are a //''frequent''// reward for participation in small, significant events that allows the player to develop and improve their character. It is primarily used to improve [[Facets]] and to acquire [[Talents & Masteries]].
+* //''Character''// rewards are handled //''by the players and GM''// and is a //''scarce''// resource given specifically for contributing and enriching the world and the narrative that allows players to take narrative control in certain situations. It can be used to acquire existing [[Talents & Masteries]], to invent new ones, or to narrate key events in a character's legacy.
 * //''Renown''// rewards are handled //''by the GM''// and are given for completing major story arcs and for accomplishing great and/or terrible things. It is can be used in a variety of ways, but the primary purpose is to solidfy the player's character and their accomplishments in the story and the world.
 
 {{||_expand}}
