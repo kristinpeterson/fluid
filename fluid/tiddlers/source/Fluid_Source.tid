@@ -3,11 +3,11 @@ color: #ccc
 created: 20170124062713751
 icon: fluid.svg
 list: Entities Primitives Mechanics
-modified: 20170124064818544
+modified: 20170124070805689
 tags: Contents
 title: Fluid Source
 type: text/vnd.tiddlywiki
 
-Fluid source is organized around a set of four core [[🜅 Primitives]] that are used to define and represent [[🜅 Entities]] in the world as well as three general [[🜅 Mechanics]] that govern how entities interact with their environment and each other.
+Fluid source is organized around a set of four core [[Primitives]] that are used to define and represent [[Entities]] in the world as well as three general [[Mechanics]] that govern how entities interact with their environment and each other.
 
 {{||_expand}}

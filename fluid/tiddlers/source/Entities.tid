@@ -1,7 +1,7 @@
 caption: [img height=10 [fluid.svg]] {{!!title}}
 created: 20161228185641350
 icon: fluid.svg
-modified: 20170124063647693
+modified: 20170124070940537
 tags: [[Fluid Source]]
 title: Entities
 type: text/vnd.tiddlywiki
@@ -13,13 +13,13 @@ An entity can be anything: A player character, a piece of equipment, a city, a m
 * //''Represent entites consistently''//. Try to be consistent in how you represent entities of the same type (e.g. represent all cities in a similar way). This isn’t critical in all cases but if done appropriately will aid both the GM and the players in internalizing the sort of innate rules of the world.
 * //''Establish a system for important entites''//. Important NPCs, Player Characters, powerful equipment and the like are important, and should be treated as such. Take the time to settle on a representation for these entities or use or modify one of the droplets that define them.
 
-All entities in 🜅luid are represented with one or more of the core  [[🜅 Primitives]]. Important entites have consistent systems defined in one or more [[🜅 Droplets]]:
+All entities in Fluid are represented with one or more of the core  [[Primitives]]. Important entites have consistent systems defined in one or more [[▽ Droplets]]:
 
-* [[🜄 Character]] provides the default system for player characters.
-* [[🜄 Skill]], [[🜄 Craft]], [[🜄 Fight]], [[🜄 Heritage]] and [[🜄 Magic]] each augment the character system in specific ways.
-* [[🜄 Gear]] provides a system for equipment and items.
-* [[🜄 Companions]] provides a generic system for NPC henchmen, sidekicks and hirelings.
-* [[🜄 Monsters]] provides generic system for monsters, beasts and other entities.
-* [[🜄 Locales]] provides general guidelines for cities, countries and organizations.
+* [[▽ Character]] provides the default system for player characters.
+* [[▽ Skill]], [[▽ Craft]], [[▽ Fight]], [[▽ Heritage]] and [[▽ Magic]] each augment the character system in specific ways.
+* [[▽ Gear]] provides a system for equipment and items.
+* [[▽ Companions]] provides a generic system for NPC henchmen, sidekicks and hirelings.
+* [[▽ Monsters]] provides generic system for monsters, beasts and other entities.
+* [[▽ Locales]] provides general guidelines for cities, countries and organizations.
 
 You're free to use these systems to define entities in your setting, or to define your own set of droplets.
