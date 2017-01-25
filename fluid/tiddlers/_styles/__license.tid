@@ -1,5 +1,5 @@
 created: 20170124054310026
-modified: 20170124061825006
+modified: 20170125075315412
 tags: $:/tags/ViewTemplate
 title: __license
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
   <$macrocall $name="_license" />
 </$list>
 
-<$list filter="[is[current]field:icon[droplet.svg]]">
+<$list filter="[is[current]prefix[▽]]">
   <$macrocall $name="_license" />
 </$list>
 
