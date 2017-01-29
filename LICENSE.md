@@ -18,7 +18,7 @@ This includes all content contained in [source](https://github.com/eschlon/fluid
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Fluid Streams
-Content that is not rules-related (e.g. Settings, Maps, History, Characters, etc.) is always copyright (c) their resepective creators unless otherwise specified. 
+Content that is not rules-related (e.g. Settings, Maps, History, Characters, etc.) is always copyright (c) its resepective creators unless otherwise specified by said creators. 
 
 The nature of pen & paper rulesets makes it convenient blend this sort of content together with rules content (e.g. character sheets, source books, etc.). Fluid Streams exists for exactly this purpose, and any non-rules related pages or material marked as a Stream or with the Stream Logo - with the exception of any content covered by the above license - is considerd to be compatible with the system but can be covered under whatever license and restriction its creator chooses. To be clear, a given stream may reference and/or contain new or existing mechanics, droplets, facets or talents or other primitives; however, that rules-related content is *not* considered to be part of the Stream and is covered by the permissive licenses above.
 
