@@ -1,0 +1,22 @@
+created: 20160121084315353
+creator: eschlon
+modified: 20170129045852990
+modifier: eschlon
+reqs:  A Thaumaturgy, [[♣ Esoteric Research]]
+tags: Talent [[Esoteric Talents]]
+title: ♣ Esoteric Memorization
+type: text/vnd.tiddlywiki
+
+You are trained to //memorize// known //Spells// to make casting more efficient and reliable. The act of memorization is not simply looking over some notes as if studying for an examination. During memorization, you prepare energy channels and pathways which serve to reduce the stress on your body when casting the prepared //Spell//, and also serve to automate some of the more complex energy manipulations necessary to produce the desired effect. 
+
+* Memorizing a //Spell// takes 10 minutes per //Rank// of the //Spell// and permits the caster to cast the //Spell// once. If they wish to be able to cast a single //Spell// multiple times they must memorize it multiple times, effectively reinforcing the given pathway to survive multiple uses.
+* The caster can only memorize //Spells// that are currently in a spell book in their posession. 
+* //Spells// above //Rank// 6 are exceptionally complex and sensitive, and must be memorized in a clean room or laboratory.
+* The cost of the memorized //Spell// must be allocated at the time of memorization, and must come from the character's relevant //Esoteric Potential//. 
+* Character's may still spend //Esoteric Potential// to pay for the cost of non-memorized spells, however spending any points that are allocated to a memorized spell will ruin that spell.
+* Once memorized the spell can be cast at any time, by simply paying the cost out of the character's relevant //Esoteric Potential//.
+
+An Example:
+
+> Aleph the wizard has an //Arcane Endurance// of 6  from his thaumaturgy. He decides to memorize one //Rank// 2 spell in a //Domain// he is familiar with, allocating 2 points, and a second //Rank// 2 spell that in an untrained //Domain//, allocating the other 4 points.
+>Later that day he casts the easier of his spells, immediately depleting his //Arcane Endurance// to 4. He then decides to use another power which he has acquired as a //Talent//, with a cost of 1. He may choose to pay that cost in tax to his //Arcane// or //Stamina// normally, however if he chooses to pay that cost out of his //Arcane Endurance// his remaining memorized spell is spoiled as a result.

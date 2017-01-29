@@ -1,0 +1,23 @@
+created: 20170129040623995
+modified: 20170129041457584
+title: _talents_droplet
+type: text/vnd.tiddlywiki
+
+\define _view(label)
+<table>
+  <tr>
+    <th>Talent</th> 
+    <th>Requirements</th>
+    <th>Source</th>
+  </tr>
+<$list filter="[tag[Talent]sort[reqs]field:source[$label$]]">
+  <tr>
+    <td><$link>{{!!title}}</$link></td>
+    <td>{{!!reqs}}</td>
+    <td><$link>{{!!source}}</$link></td>
+  </tr>
+</$list>
+</table>
+\end
+
+<$macrocall $name="_view" label={{!!title}} />

@@ -1,0 +1,18 @@
+created: 20160119031157125
+creator: eschlon
+modified: 20170129045803936
+modifier: eschlon
+reqs: 3 Engineering, 3 Scholarship
+tags: [[Eldritch Crafts]] Talent Engineering Scholarship
+title: ♣ Artifice
+type: text/vnd.tiddlywiki
+
+Artificers acquire and invent schema to produce devices, constructs and machines with magical properties. Schema always require three components: a casing to house the device, a specific material to fabricate the device and a focus to power the contraption. 
+
+This talent allows the Artificier to invent schema, fabricate eldritch items from their schema and utilize artificing equipment to enhance their tests.
+
+|full-width-table|k
+|! Component|! Common (-1)|! Rare (-2)|! Esoteric (-3)|
+|! The Case| Metal Box | Ornate Sphere | Demon Skull |
+|! The Material| Copper | Gold | Mithril |
+|! The Focus| Quartz Shard | Rough Diamond | Dragon Heart |

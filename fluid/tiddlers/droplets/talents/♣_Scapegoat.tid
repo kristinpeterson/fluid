@@ -1,0 +1,10 @@
+created: 20160111230756171
+creator: eschlon
+modified: 20170129045538944
+modifier: eschlon
+reqs: 4 Crime, 4 Investigation
+tags: Talent Crime Investigation
+title: ♣ Scapegoat
+type: text/vnd.tiddlywiki
+
+The best way to look innocent is to make sure someone else takes the blame. Assuming you have some access to an individual, you may spend ''1x Crime'' to declare them to be the scapegoat for a crime you have committed or are about to commit. Any investigation into the crime will subtly lead to them instead of you.

@@ -1,0 +1,21 @@
+created: 20160122062555706
+creator: eschlon
+modified: 20170129045852983
+modifier: eschlon
+reqs: Esoteric Affinity
+tags: [[Esoteric Talents]] Talent
+title: ♣ Esoteric Summoning
+type: text/vnd.tiddlywiki
+
+Your esoteric affinity has given you the ability to call upon and communicate with eldritch entities. The kinds of esoteric entities that you may summon depend on the particular esoteric affinity (or affinities) that you possess.
+
+* ''Arcane'' affinity allows you to manifest and communicate with //Elemental// entities, entities closely bonded to the elemental makeup of matter.
+* ''Astral'' affinity allows you to manifest and communicte with //Chimera//, entities of thought, dream and belief.
+* ''Divine'' affinity allows you to manifest and communicate with //Spirits//, great spirits of nature and philosophy.
+* ''Eldritch'' affinity allows you to manivest and communicate with any eldritch entity, including those mentioned above and //Horrors//, alien entities from other realities.
+
+The summoning process is similar to other esoteric powers, having a rank and a domain, where the //Rank// is equal to the //Magnitude// of the desired entity and the //Domain// is the same as the //Domain// of the entity being summoned. Unlike a normal esoteric power, however, you cannot acquire the ability to summon a specific entity as a //Talent// and must instead succeed at a test using your relevant esoteric aspect against a difficulty equal to the //Magnitude// of the entity. 
+
+If you succeed, you pay the normal cost (e.g. the //Rank// of the power, or twice the //Rank// if you do not possess any relevant //Domains//). If you fail you must //still// pay the cost, and additionally take an amount of damage to both your //Health// and //Composure// equal to your margin of failure, as the eldritch entity lashes out in anger.
+
+Once summoned the eldritch entity is just a creature, albeit a powerful one, and can be negotiated with to perform a single task for the summoner. Eldritch entities will //only// perform tasks that fall within one of their domains, and are considered to be capable of manifesting esoteric powers of a rank equal to their //Magnitude//.

@@ -1,0 +1,58 @@
+created: 20170129013050979
+modified: 20170129042657014
+tags: [[▽ Character]]
+title: ▽ Aptitude
+type: text/vnd.tiddlywiki
+
+|float-right|k
+||! Physical|! Mental|
+|! Power| ''//Vigor//'' | ''//Focus//'' |
+|! Grace| ''//Agility//'' | ''//Cunning//'' |
+|! Awareness| ''//Perception//'' | ''//Empathy//'' |
+
+Characters are represented with a system of six //Aptitudes// which broadly define the general ability of the and are rolled in tandem with a [[Skill|▽ Skill]]. Schematically the system is represented in the nearby table.
+
+! The Aptitudes
+All characters have six core aptitudes serve as both a general measure of the character’s strengths and ability as well as provide narrative direction to how any specific goal is undertaken. The aptitudes form a grid and both the vertical and horizontal groupings are meaningful:
+
+* [[Vigor]], [[Agility]] and [[Perception]] are the physical aptitudes. They are used for physical actions.
+* [[Focus]], [[Cunning]] and [[Empathy]] are the mental aptitudes. They are used for mental actions.
+* [[Vigor]] and [[Focus]] are the power aptitudes. They are used for actions requiring force, determination and resistance.
+* [[Agility]] and [[Cunning]] are the grace aptitudes. They are used for actions requiring finesse, reflexes and precision.
+* [[Perception]] and [[Empathy]] are the awareness aptitudes. They are used for actions that require observation, senses and intuition. 
+
+During play //Aptitudes// are generally paired with a //Skill// to determine the total die pool rolled. The decision of which //Skill// and //Aptitude// are rolled are driven by the narrative:
+
+<<<
+Sharon, an agent of the local merchant’s guild, is sent to find out who is leaking guild secrets to the press. She manages to locate one of the journalists involved and narrates that she is going to pretend to be a great fan and attempt to get the journalist to reveal his source through flattery. The table decides that //Empathy// + //Persuasion// is a reasonable aptitude and skill for this attempt.
+<<<
+
+! Initial Values & Advancement
+
+|float-right|k
+|! Aptitude Rank|! Dice |! Cost to Obtain |! Total Cost |
+| Fair | 1d | 1xp | 1xp |
+| Average | 2d | 4xp | 5xp |
+| Good  | 3d | 9xp | 14xp |
+| Excellent | 4d | 16xp | 30xp |
+| Epic | 5d | 25xp | 55xp |
+
+Like all facets, //Aptitudes// are measured in dice. They have a maximum rank of 5, and while it is possible to have 0 in a given aptitude, generally all characters will have be at least rank 1 in each. 
+
+When initially making a character select one //Aptititude// as //Primary// and two //Aptititudes// as //Secondary//. The //Primary Aptitude// begins at //Rank// 3, the //Secondary Aptititudes// at //Rank// 2, and the three remaining //Aptititudes// at //Rank// 1.
+
+//Aptitudes// are advanced by spending //Experience//. It costs the square of the rank to be gained to advance, making them costly to increase to higher levels. See the table for more details.
+
+! Aptitude Talents
+This droplet defines three new talents for each //Aptitude//, with requirements of //Rank// 2, 3 and 5 in their respective //Aptitude//. The first two are formulaic, in that they have a similar effect for each //Aptititude//. Examples for //Vigor// are given below.
+
+{{♣ Might||_talent}}
+{{♣ Dig Deep||_talent}}
+
+The //Rank// 5 talent is unique for each //Aptitude//. As an example:
+
+{{♣ Potency||_talent}}
+
+A consise list of all talents introduced by this droplet is given below:
+
+{{||_talents_droplet}}

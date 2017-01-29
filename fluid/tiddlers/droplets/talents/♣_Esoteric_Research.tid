@@ -1,0 +1,17 @@
+created: 20160121081636228
+creator: eschlon
+modified: 20170129045852988
+modifier: eschlon
+reqs: Esoteric Affinity, 3 [[Scholarship]]
+tags: Talent [[Esoteric Talents]]
+title: ♣ Esoteric Research
+type: text/vnd.tiddlywiki
+
+You have been trained in the rigorous scientific study and practice of the esoteric arts. You may develop esoteric powers as //Spells// either through independent research or by studying the research of others. These //Spells// may be learned and acquired by the caster or other esoteric characters as //Talents//.
+
+Learning a new spell required the character succeed at a research attempt using a relevant esoteric aspect (e.g. //Arcane//) against a difficulty equal to twice the rank of the //Spell// if they have a relevant //Domain// or four times the rank if they do not. This is a cumulative test, and the researcher may make a new attempt for each week of study for learning spells or each month of development for inventing new spells until they accumulate enough successes to master or invent the spell and copy it into their spellbook.
+
+* Acquired Spells are recorded in the character's spell books, taking up a number of pages equal to the Rank of the Spell. These books are essential to a Scholastic; if they lost or destroyed the spells within are also lost and must be reacquired.
+* In addition to the above, the character must meet the esoteric requirements specified by the power to be able to understand and acquire a new spell (e.g. 1 //Arcane//)
+
+Consult the section on [[Designing Powers]] for more details about inventing new esoteric powers.

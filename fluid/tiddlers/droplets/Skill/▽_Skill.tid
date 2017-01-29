@@ -1,6 +1,51 @@
 created: 20170124062309582
-modified: 20170124072201642
-tags: [[▽ Fluid Droplets]]
+modified: 20170129044558615
+tags: [[▽ Character]]
 title: ▽ Skill
 type: text/vnd.tiddlywiki
 
+Characters have a set of skills that define areas in which they have specific training. These are rolled in tandem with an [[Aptitude|▽ Aptitude]] when making a [[test|Tests]].
+
+! The Skills
+This droplet introduces a set of 14 skills that cover a wide range of training and capabilities. See the individual skill pages linked below for details on each skill and assocaited talents.
+
+* {{Acrobatics}}
+* {{Athletics}}
+* {{Crime}}
+* {{Exploration}}
+* {{Investigation}}
+* {{Leadership}}
+* {{Medicine}}
+* {{Performance}}
+* {{Persuasion}}
+* {{Propriety}}
+* {{Scholarship}}
+* {{Stealth}}
+* {{Survival}}
+* {{Taming}}
+
+During play //Skills// are generally paired with an //Aptitude// to determine the total die pool rolled. In general the //Skill// is determined by what you are doing and the //Aptitude// is determined by how you are going about it. In all cases the choice is driven by the narrative.
+
+<<<
+Sharon fails to get the journalist to talk through flattery and decides to step up her game by threatening to break his fingers. She still rolls //Persuasion// as her skill but uses //Vigor// instead of //Empathy// as her aptitude.
+<<<
+
+! Intial Values & Advancement
+|float-right|k
+|! Skill Rank|! Dice |! Cost to Obtain |! Total Cost |
+| Trained | 1d | 1xp | 1xp |
+| Capable | 2d | 2xp | 3xp |
+| Professional | 3d | 3xp | 6xp |
+| Expert | 4d | 4xp | 10xp |
+| Adept | 5d | 5xp | 15xp |
+
+//Skills// function similarly to [[Aptitudes|▽ Aptitude]], having a minimum rank of 0 and a maximum rank of 5. Unlike //Aptitudes//, they are considerably cheaper to advance, though much more specific in their utility. 
+
+When initially making a character select one //Primary Skill//, two //Secondary Skills// and three //Tertiary Skills//. The //Primary Skill// begins at //Rank// 3, the //Secondary Skills// at //Rank// 2, the //Tertiary Skills// at //Rank// 1 and all other skills start at //Rank// 0. 
+
+//Skills// are advanced by spending an amount of //Experience// equal to the rank to be gained. See the table for more details.
+
+! Skill Talents
+This droplet defines a total of 70 new [[Talents|Talents & Masteries]] providing five talents for each skill. A full consise list of talents introduced by this droplet is given below:
+
+{{||_talents_droplet}}

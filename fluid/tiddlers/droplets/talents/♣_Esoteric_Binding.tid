@@ -1,0 +1,17 @@
+created: 20160122064541557
+creator: eschlon
+modified: 20170129045852997
+modifier: eschlon
+reqs: [[♣ Esoteric Summoning]]
+tags: [[Esoteric Talents]] Talent
+title: ♣ Esoteric Binding
+type: text/vnd.tiddlywiki
+
+You have mastered the ability to summon eldritch creatures and bind them to yourself. Whenever you successfully summon an entity using [[♣ Esoteric Summoning]] you may pay ''Xx Esoteric'' where X is equal to the //Magnitude// of the entity to bind that entity to you. Bound entities are generally not pleased by this, but will remain with the caster for the duration of its binding and may be called upon to perform tasks as if they were a [[♒ Companion]] with a set of aspects equal to their //Domains// each at a rank equal to the entity's //Magnitude//.
+
+Bound entities remain bound until they are either released by the caster or break their bonds. They will attempt to break their bonds under two circumstances:
+
+* If the caster requests that the entity perform any actions which are in opposition with its //Domains//.
+* If the caster's relevant esoteric aspect falls below the creature's magnitude (e.g. as a result of tax).
+
+In either case the caster must immediately stop what they are doing and make a test using the relevant esoteric aspect against the entity's //Magnitude//. If they succeed the entity remains bound and will not attempt escape again during this scene. If they fail the creature breaks free, and deals an amount of damage to the caster's //Health// and //Composure// equal to its //Magnitude// on the way out.

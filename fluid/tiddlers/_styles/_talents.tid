@@ -1,5 +1,5 @@
 created: 20161230100203946
-modified: 20161230101758573
+modified: 20170129041343877
 tags: $:/tags/ViewTemplate
 title: _talents
 type: text/vnd.tiddlywiki
@@ -7,9 +7,17 @@ type: text/vnd.tiddlywiki
 \define _view(label)
 <hr />
 <table>
-  <tr><th>Related Talents</th> <th>Requirements</th></tr>
+  <tr>
+    <th>Related Talents</th> 
+    <th>Requirements</th>
+    <th>Source</th>
+  </tr>
 <$list filter="[tag[$label$]sort[reqs]]">
-  <tr><td><$link>{{!!title}}</$link></td><td>{{!!reqs}}</td></tr>
+  <tr>
+    <td><$link>{{!!title}}</$link></td>
+    <td>{{!!reqs}}</td>
+    <td>{{!!source}}</td>
+  </tr>
 </$list>
 </table>
 \end

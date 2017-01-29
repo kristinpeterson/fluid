@@ -1,5 +1,5 @@
 created: 20161230100342689
-modified: 20161230101800997
+modified: 20170129040648327
 tags: $:/tags/ViewTemplate
 title: _talent_group
 type: text/vnd.tiddlywiki
@@ -9,11 +9,11 @@ type: text/vnd.tiddlywiki
 <hr />
 
 <$list filter="[tag[$label$]]" >
-  <h2>{{!!title}}</h2>
+  <h2><$link>{{!!title}}</$link></h2>
 {{!!title||_talents}}
 </$list>
 \end
 
-<$list filter="[is[current]tag[🜅 Skills & Talents]]">
+<$list filter="[is[current]tag[♣ Skills & Talents]]">
   <$macrocall $name="_view" label={{!!title}} />
 </$list>

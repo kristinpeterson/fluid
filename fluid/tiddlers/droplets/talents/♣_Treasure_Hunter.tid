@@ -1,0 +1,10 @@
+created: 20160111232156022
+creator: eschlon
+modified: 20170129045538943
+modifier: eschlon
+reqs: 4 Crime, 4 Investigation, [[Plunder]]
+tags: Talent Crime Investigation
+title: ♣ Treasure Hunter
+type: text/vnd.tiddlywiki
+
+When using [[Plunder]] you may spend an additional ''1x Investigation'' to guarantee that you get everything valuable at the scene, even hidden items.

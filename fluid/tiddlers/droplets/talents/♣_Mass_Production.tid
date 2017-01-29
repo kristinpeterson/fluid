@@ -1,0 +1,10 @@
+created: 20160111220343763
+creator: eschlon
+modified: 20170129045803919
+modifier: eschlon
+reqs: 5 Labor
+tags: Talent Labor
+title: ♣ Mass Production
+type: text/vnd.tiddlywiki
+
+Whenever you successfully craft a given item you may pay ''1x Labor'' to immediately craft another. Note that this does not avoid the time it takes to craft the second item (e.g. If you spent 1 week crafting the first, you would spend 1 week crafting the second), and you must have sufficient materials (if you used up all your //Dragon Bone// the first time you're out of luck).

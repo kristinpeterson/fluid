@@ -1,0 +1,10 @@
+created: 20160119065701133
+creator: eschlon
+modified: 20170129045803918
+modifier: eschlon
+reqs: 5 Labor
+tags: Talent Labor
+title: ♣ Process
+type: text/vnd.tiddlywiki
+
+You are adept at reducing manufacturing complexity either by streamlining the labor involved or simplifying the construction. Pay ''1x Labor'' to reduce the influence of construction complexity when calculating an items //Complexity// to $$+1$$.

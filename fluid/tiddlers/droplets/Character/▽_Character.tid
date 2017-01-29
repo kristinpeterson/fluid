@@ -1,87 +1,16 @@
 color: #00c
-created: 20170124053907303
-list: [[🜄 Aptitudes]] [[🜄 Passive Aspects]] [[🜄 Reactive Aspects]] [[🜄 Skills]]
-modified: 20170125075941580
+created: 20170129020744784
+list: [[▽ Aptitude]] [[▽ Skill]]
+modified: 20170129044711024
 tags: [[▽ Fluid Droplets]]
 title: ▽ Character
 type: text/vnd.tiddlywiki
 
-This droplet defines a //Facet System// for player characters [[entities|Entities]] in Fluid. It is an indepenedent droplets, and requires no other droplets to function.
+This droplet defines a [[facet system|Facets]] for player characters. It is composed of three sub-components:
 
----
+* [[▽ Aptitude]] introduces a set of six facets which describe the general ability of a character.
+* [[▽ Skill]] introduces a set of fourteen facets which describe the character's specific training and competence.
 
-Characters are represented with a system of six //Aptitudes// which broadly define the general ability of the and are rolled in tandem with a //Skill//. These two types of facets: //Aptitudes//, and //Skills// can all be improved during play directly by spending Experience. 
+Each of these components introduces a set of new [[Facets]],  mechanics for using and advancing those facets and a host of new [[Talents|Talents & Masteries]] that enhance, and build off of the system.
 
-! Aptitudes
-|float-right|k
-||!Physical|!Mental|
-|!Power| ''//Vigor//'' | ''//Focus//'' |
-|!Grace| ''//Agility//'' | ''//Cunning//'' |
-|!Awareness| ''//Perception//'' | ''//Empathy//'' |
-
-All characters have six core aptitudes serve as both a general measure of the character’s strengths and ability as well as provide narrative direction to how any specific goal is undertaken. The aptitudes form a grid and both the vertical and horizontal groupings are meaningful:
-
-* //[[Vigor]]//, //[[Agility]]// and //[[Perception]]// are the physical aptitudes. They are used for physical actions.
-* //[[Focus]]//, //[[Cunning]]// and //[[Empathy]]// are the mental aptitudes. They are used for mental actions.
-* //[[Vigor]]// and //[[Focus]]// are the power aptitudes. They are used for actions requiring force, determination and resistance.
-* //[[Agility]]// and //[[Cunning]]// are the grace aptitudes. They are used for actions requiring finesse, reflexes and precision.
-* //[[Perception]]// and //[[Empathy]]// are the awareness aptitudes. They are used for actions that require observation, senses and intuition. 
-
-|float-right|k
-|! Aptitude Rank|! Dice |! Cost to Obtain |! Total Cost |
-| Fair | 1d | 1xp | 1xp |
-| Average | 2d | 4xp | 5xp |
-| Good  | 3d | 9xp | 14xp |
-| Excellent | 4d | 16xp | 30xp |
-| Epic | 5d | 25xp | 55xp |
-
-Like all facets, //Aptitudes// are measured in dice. They have a maximum rank of 5, and while it is possible to have 0 in a given aptitude, generally all characters will have be at least rank 1 in each. //Aptitudes// are advanced by spending //Experience//. It costs the square of the rank to be gained to advance, making them costly to increase to higher levels. See the table for more details.
-
-During play //Aptitudes// are generally paired with a //Skill// to determine the total die pool rolled. The decision of which //Skill// and //Aptitude// are rolled are driven by the narrative:
-
-<<<
-Sharon, an agent of the local merchant’s guild, is sent to find out who is leaking guild secrets to the press. She manages to locate one of the journalists involved and narrates that she is going to pretend to be a great fan and attempt to get the journalist to reveal his source through flattery. The table decides that //Empathy// + //Persuasion// is a reasonable aptitude and skill for this attempt.
-<<<
-
-! Aptitude Talents
-[[▽ Character]] defines three new talents for each //Aptitude//, with requirements of //Rank// 2, 3 and 5 in their respective //Aptitude//. The first two are formulaic, in that they have a similar effect for each //Aptititude//. Examples for //Vigor// are given below.
-
-{{♣ Might||_talent}}
-{{♣ Dig Deep||_talent}}
-
-The //Rank// 5 talent is unique for each //Aptitude//.
-
-{{♣ Potency||_talent}}
-
-Check the specific page for each //Aptitude// for a list of talents available.
-
-! Skills
-Characters also have a set of skills that define specific areas in which they have specific training. //Skills// are much more free-form, however generally Fluid works best with a generally fixed set of skills. See the [[▽ Skill]], [[▽ Fight]] and [[▽ Craft]] droplets for a set of fixed skills for general use.
-
-|float-right|k
-|! Skill Rank|! Dice |! Cost to Obtain |! Total Cost |
-| Trained | 1d | 1xp | 1xp |
-| Capable | 2d | 2xp | 3xp |
-| Professional | 3d | 3xp | 6xp |
-| Expert | 4d | 4xp | 10xp |
-| Adept | 5d | 5xp | 15xp |
-
-//Skills// function similarly to //Aptitudes//, having a minimum rank of 0 and a maximum rank of 5. Unlike //Aptitudes//, they are considerably cheaper to advance, though much more specific in their utility. //Skills// are advanced by spending an amount of //Experience// equal to the rank to be gained. See the table for more details.
-
-During play //Skills// are generally paired with an //Aptitude// to determine the total die pool rolled. In general the //Skill// is determined by what you are doing and the //Aptitude// is determined by how you are going about it. In all cases the choice is driven by the narrative.
-
-<<<
-Sharon fails to get the journalist to talk through flattery and decides to step up her game by threatening to break his fingers. She still rolls //Persuasion// as her skill but uses //Vigor// instead of //Empathy// as her aptitude.
-<<<
-
-! Character Creation
-
-Follow these steps to establish the initial facet ranks of a new character:
-
-# Select one //Primary Aptitude// and set it to //Rank// 3
-# Select two //Secondary Aptitiudes// and set each to //Rank// 2
-# The remaning three //Aptitudes// begin at //Rank// 1
-# Select one //Primary Skill// and set it to //Rank// 3
-# Select two //Secondary Skills// and set each to //Rank// 2
-# Select three //Tertiary Skills// and set each to //Rank// 1
-# All other skills begin at //Rank// 0
+{{||_expand}}

@@ -1,0 +1,10 @@
+created: 20160112032144177
+creator: eschlon
+modified: 20170129045538891
+modifier: eschlon
+reqs: 3 Medicine
+tags: Talent Medicine
+title: First Aid
+type: text/vnd.tiddlywiki
+
+If you are able to treat any injury immediately you may pay ''1x Medicine'' to halve the amount of //Health// taxed by the injury.

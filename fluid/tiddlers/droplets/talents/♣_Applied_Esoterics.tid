@@ -1,0 +1,12 @@
+created: 20160121083326260
+creator: eschlon
+modified: 20170129045853004
+modifier: eschlon
+reqs: [[♣ Esoteric Research]]
+tags: Talent [[Esoteric Talents]]
+title: ♣ Applied Esoterics
+type: text/vnd.tiddlywiki
+
+You may attempt to perform any //Spell// that is currently in your possession, even if you have not acquired it as a //Talent// or prepared it using [[♣ Esoteric Memorization]], however doing so is both dangerous and difficult.
+
+To do so the //Spell// must be in a spell book that is currently in the your possession and you must succeed at a casting test of your esoteric aspect (e.g. //Arcane//) against a difficulty equal to the //Rank// of the //Spell// (or twice the //Rank// if you do not have a relevant //Domain//). If you succeed you may cast the //Spell//, paying the usual cost. If you fail you must //still// pay the cost of the spell and take your margin of failure in tax to your //Composure//.

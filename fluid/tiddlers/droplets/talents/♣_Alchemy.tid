@@ -1,0 +1,18 @@
+created: 20160119025553286
+creator: eschlon
+modified: 20170129045803946
+modifier: eschlon
+reqs: 3 Crafting, 3 Scholarship
+tags: [[Eldritch Crafts]] Talent Crafting Scholarship
+title: ♣ Alchemy
+type: text/vnd.tiddlywiki
+
+Alchemists acquire and invent formulae to produce potions, salves, oils, powders and other chemicals that have magical properties. Formulae always require three components: a chemical base, a catalyzing reagent and a container to keep the chemical inert and preserved until use. 
+
+This talent allows the Alchemist to invent formulae, fabricate eldritch items from their formulae and utilize alchemical equipment and materials to enhance their tests.
+
+|full-width-table|k
+|! Component|! Common (-1)|! Rare (-2)|! Esoteric (-3)|
+|! The Base| Oil, Purified Water | Deep Glacial Ice | Unicorn Tears |
+|! The Reagent| Basil, Tree Sap | Batwing, Eye of Newt | Dragon Bone |
+|! The Container| Glass Bottle, Leather Flask | Crystal Decanter | Gnomish Geode |
